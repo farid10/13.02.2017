@@ -1,0 +1,15 @@
+.main{
+	width: 100%;
+	background: white;
+	height: auto;
+}
+.float{
+	float: left;
+}
+.size{
+	width: 33.33%;
+	height: auto;
+}
+.img{
+	width: 100%;
+}
